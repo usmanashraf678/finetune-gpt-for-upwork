@@ -27,3 +27,6 @@ python finetuning.py
 ## Notes
 - You can change the system prompt as per your preference in the `finetuning.py` file. 
 - Also, feel free to use your own proposals. You would need to save them as the `proposals.csv` file in the `data` folder.
+
+## Supporting materials
+More details about the project can be found in [this](https://www.youtube.com/watch?v=lDnrPbJcm-E) youtube video.
